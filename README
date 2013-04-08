@@ -1,0 +1,9 @@
+The Gizmo is a piece of software to assist communities in dividing labor (and money) in an egalitarian manner. I am not the creator, but picked up maintenance after moving into my current house.
+
+IMPORTANT: If you want to use the e-mail reminder feature, configure the mail server in House.java.
+
+To build: Run 'make'.
+
+To run: Run './gizmo.sh'.
+
+Tested on Ubuntu Linux and Mac OS X.

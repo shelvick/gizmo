@@ -1,0 +1,6 @@
+Name,Labor Sharing?,Desired House Quota,Desired Income Quota,Min Income Quota,Max Income Quota,Labor Needs,Money Needs,Post-tax Wage,Finalized?,E-mail,Deductions,Income Hours Worked
+Emma,true,68.415726,39.0,39.0,39.0,40.0,1000.0,11.5,false,,0.0,75
+Alice,true,62.415726,45.0,39.0,58.0,40.0,1000.0,10.0,false,,0.0,100
+Bob,true,62.2107,45.205025,39.0,76.0,40.0,1000.0,12.0,false,,300.0,120
+Eve,false,56.561802,33.999996,16.0,39.0,40.0,750.0,13.37,false,,266.0,80
+Dr. Dre,true,21.210793,86.20493,39.0,165.0,40.0,1000.0,30.0,true,foobar@example.com,300.0,180
